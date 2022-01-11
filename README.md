@@ -28,7 +28,7 @@ I'm a Tech fanatic, skilled in TypeScript, JavaScript, C++, ReactJS, NextJS, Red
 </p>
 
 <h1 align="center">Let's Get Connected</h1>
-<p> Find out more about me & feel free to connect with me :</p>
+<p align="center"> Find out more about me & feel free to connect with me :</p>
 
 <div align="center">
 
