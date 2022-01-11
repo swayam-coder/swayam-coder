@@ -3,7 +3,8 @@ I am a Web Developer, skilled in MERN Stack Development. I am pursuing my <b>B.T
 
 <h1 align="center">Tech-Stack</h1>
 
-I'm a Tech fanatic, skilled in TypeScript, JavaScript, C++, ReactJS, NextJS, Redux, React Query, NodeJS, ExpressJS, GraphQL and GraphQL Tools. Currently learning ElasticSearch, Golang and much more...
+I'm a Tech fanatic, skilled in TypeScript, JavaScript, C++, ReactJS, NextJS, Redux, React Query, NodeJS, ExpressJS, GraphQL and GraphQL Tools. 
+Currently learning ElasticSearch, Golang and much more...
 
 <p align="center"> 
  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
