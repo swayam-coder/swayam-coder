@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Swayam Nayak</h1>
-I am a Web Developer, skilled in MERN Stack Development. I am pursuing my <b>B.Tech</b> from Odisha University of Technology and Research, Bhubaneswar
+I am a Web Developer, skilled in <b>MERN Stack Development</b>. I am pursuing my <b>B.Tech</b> from Odisha University of Technology and Research, Bhubaneswar
 
 <h1 align="center">Tech-Stack</h1>
 
